@@ -12,5 +12,13 @@
     "experts"
   ],
   "author": "Jak",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yamalight/building-products-with-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yamalight/building-products-with-js/issues"
+  },
+  "homepage": "https://github.com/yamalight/building-products-with-js#readme"
 }
